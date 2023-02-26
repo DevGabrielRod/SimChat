@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/gabriel/Documentos/SimChats/src/sender.cpp
+/home/gabriel/Desktop/WorkSpace/SimChats/SimChat/src/sender.cpp
 iostream
 -
 stdlib.h

@@ -4,13 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/gabriel/Documentos/SimChats/src/FUN.cpp" "/home/gabriel/Documentos/SimChats/bin/CMakeFiles/FUN.exec.dir/FUN.cpp.o"
+  "/home/gabriel/Desktop/WorkSpace/SimChats/SimChat/src/FUN.cpp" "/home/gabriel/Desktop/WorkSpace/SimChats/SimChat/bin/CMakeFiles/FUN.exec.dir/FUN.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/home/gabriel/Documentos/chatpp/src"
+  "."
   )
 
 # Targets to which this target links.

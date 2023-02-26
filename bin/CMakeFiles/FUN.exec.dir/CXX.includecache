@@ -6,11 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/home/gabriel/Documentos/SimChats/src/FUN.cpp
+/home/gabriel/Desktop/WorkSpace/SimChats/SimChat/src/FUN.cpp
 iostream
 -
 stdio.h
 -
 fstream
 -
+SampleConfig.h
+/home/gabriel/Desktop/WorkSpace/SimChats/SimChat/src/SampleConfig.h
+
+SampleConfig.h
 

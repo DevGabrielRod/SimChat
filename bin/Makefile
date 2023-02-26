@@ -67,10 +67,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/gabriel/Documentos/SimChats/src
+CMAKE_SOURCE_DIR = /home/gabriel/Desktop/WorkSpace/SimChats/SimChat/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/gabriel/Documentos/SimChats/bin
+CMAKE_BINARY_DIR = /home/gabriel/Desktop/WorkSpace/SimChats/SimChat/bin
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -97,22 +97,11 @@ edit_cache/fast: edit_cache
 
 .PHONY : edit_cache/fast
 
-# Special rule for the target test
-test:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running tests..."
-	/usr/bin/ctest --force-new-ctest-process $(ARGS)
-.PHONY : test
-
-# Special rule for the target test
-test/fast: test
-
-.PHONY : test/fast
-
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gabriel/Documentos/SimChats/bin/CMakeFiles /home/gabriel/Documentos/SimChats/bin//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gabriel/Desktop/WorkSpace/SimChats/SimChat/bin/CMakeFiles /home/gabriel/Desktop/WorkSpace/SimChats/SimChat/bin//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gabriel/Documentos/SimChats/bin/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gabriel/Desktop/WorkSpace/SimChats/SimChat/bin/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -268,7 +257,6 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... test"
 	@echo "... FUN.exec"
 	@echo "... screen.exec"
 	@echo "... sender.exec"

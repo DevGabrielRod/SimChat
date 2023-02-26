@@ -1,6 +1,0 @@
-/home/gabriel/Documentos/SimChats/build/CMakeFiles/rebuild_cache.dir
-/home/gabriel/Documentos/SimChats/build/CMakeFiles/edit_cache.dir
-/home/gabriel/Documentos/SimChats/build/CMakeFiles/test.dir
-/home/gabriel/Documentos/SimChats/build/CMakeFiles/FUN.exec.dir
-/home/gabriel/Documentos/SimChats/build/CMakeFiles/screen.exec.dir
-/home/gabriel/Documentos/SimChats/build/CMakeFiles/sender.exec.dir

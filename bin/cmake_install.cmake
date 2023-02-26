@@ -1,4 +1,4 @@
-# Install script for directory: /home/gabriel/Documentos/SimChats/src
+# Install script for directory: /home/gabriel/Desktop/WorkSpace/SimChats/SimChat/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/gabriel/Documentos/SimChats/bin/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/gabriel/Desktop/WorkSpace/SimChats/SimChat/bin/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

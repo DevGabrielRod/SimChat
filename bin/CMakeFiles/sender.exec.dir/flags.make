@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/gabriel/Documentos/chatpp/src
+CXX_INCLUDES = -I/home/gabriel/Desktop/WorkSpace/SimChats/SimChat/bin
 
 CXX_FLAGS = 
 

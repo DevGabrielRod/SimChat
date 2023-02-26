@@ -1,19 +1,22 @@
 #include <iostream>
 #include <stdio.h>
 #include <fstream>
-
+#include "SampleConfig.h"
 using namespace std;
 
 float generateUNICODE();
 float generateID();
 void clear();
 void continu();
+void version();
 int OPC;
 bool nex;
 
 int main(){
+    
     do
     {       
+        version();
         cout << "[ 1 ] GERAR UNICODE" << endl << "[ 2 ]GERAR ID" << endl;
         cin >> OPC;
         switch (OPC)
@@ -116,4 +119,10 @@ void clear(){
     #ifdef __linux__
         system("clear");
     #endif
+}
+
+
+void version()
+{
+  cout << "Version : " << SAMPLE_VERSION_MAJOR << "." << SAMPLE_VERSION_MINOR << "." << SAMPLE_VERSION_PATCH << endl;
 }
