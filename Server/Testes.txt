@@ -1,0 +1,11 @@
+Servername::@Testes#9891547**
+Descrição{Testes}
+@Lucas:testando;
+@Lucas:123456789;
+@Lucas:exit;
+@Lucas:close;
+@Lucas:open;
+@Lucas:read;
+@Lucas:sir[D[Da;
+@Lucas:sair;
+@Lucas:Lucas saiu...;
