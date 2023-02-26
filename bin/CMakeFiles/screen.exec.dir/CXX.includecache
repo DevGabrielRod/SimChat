@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gabriel/Documentos/SimChats/src/screen.cpp
+iostream
+-
+stdlib.h
+-
+fstream
+-
+string
+-
+Windows.h
+-
+unistd.h
+-
+

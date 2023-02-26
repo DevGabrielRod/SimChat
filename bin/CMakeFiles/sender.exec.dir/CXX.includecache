@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gabriel/Documentos/SimChats/src/sender.cpp
+iostream
+-
+stdlib.h
+-
+fstream
+-
+string
+-
+cctype
+-
+iomanip
+-
+

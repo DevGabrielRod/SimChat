@@ -1,0 +1,14 @@
+Servername::@Gabriel#9915**
+Descrição{Meu lindo Server}
+@Lucas:oi;
+@Lucas:ola;
+@Lucas:Como vai?;
+@Lucas:tudo bem?;
+@Lucas:\exit;
+@Lucas:Lucas saiu...;
+@Lucas:ola;
+@Lucas:como vai?;
+@Lucas:testando;
+@Lucas:bye!;
+@Lucas:;
+@Lucas:Lucas saiu...;

@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SimChats",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "FUN.exec::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FUN.exec-Debug-66af8833dcf55d069c56.json",
+					"name" : "FUN.exec",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "screen.exec::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-screen.exec-Debug-a3ea0164af9918d450ab.json",
+					"name" : "screen.exec",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sender.exec::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sender.exec-Debug-155a0fd50d3e9d9aba79.json",
+					"name" : "sender.exec",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/gabriel/Documentos/SimChats/build",
+		"source" : "/home/gabriel/Documentos/SimChats/src"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

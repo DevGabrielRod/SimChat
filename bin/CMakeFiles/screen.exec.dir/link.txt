@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/screen.exec.dir/screen.cpp.o -o screen.exec 
