@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.exec.dir/testfun.cpp.o -o main.exec 

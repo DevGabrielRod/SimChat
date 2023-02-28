@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SimChat",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "screen.exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-screen.exe-Debug-5835c0276b5ffed30a33.json",
+					"name" : "screen.exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sender.exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sender.exe-Debug-0fb7dd4c768a48fc601d.json",
+					"name" : "sender.exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testFunc.exec::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testFunc.exec-Debug-8d38897e30c3bc9d0585.json",
+					"name" : "testFunc.exec",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/gabriel/Desktop/WorkSpace/SimChats/SimChat/build",
+		"source" : "/home/gabriel/Desktop/WorkSpace/SimChats/SimChat/src"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

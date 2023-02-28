@@ -1,1 +1,1 @@
-/usr/bin/c++ -rdynamic CMakeFiles/FUN.exec.dir/FUN.cpp.o -o FUN.exec 
+/usr/bin/c++ CMakeFiles/FUN.exec.dir/FUN.cpp.o -o FUN.exec 

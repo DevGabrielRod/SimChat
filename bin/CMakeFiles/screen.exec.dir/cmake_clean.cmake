@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/screen.exec.dir/screen.cpp.o"
+  "CMakeFiles/screen.exec.dir/screen.cpp.o.d"
   "screen.exec"
   "screen.exec.pdb"
 )

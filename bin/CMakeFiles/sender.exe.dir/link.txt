@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/sender.exe.dir/sender.cpp.o -o sender.exe 

@@ -21,7 +21,7 @@ int main(){
         if(count >2){
             cout << "Nome do servidor: ";
             getline(cin,resp);
-            serverAdress = "../Server/" + resp + ".txt";
+            serverAdress = "../lib/Server/" + resp + ".txt";
 
             count = 0;
             if(resp == "sair"){

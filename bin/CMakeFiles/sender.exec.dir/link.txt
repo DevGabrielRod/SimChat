@@ -1,1 +1,1 @@
-/usr/bin/c++ -rdynamic CMakeFiles/sender.exec.dir/sender.cpp.o -o sender.exec 
+/usr/bin/c++ CMakeFiles/sender.exec.dir/sender.cpp.o -o sender.exec 
