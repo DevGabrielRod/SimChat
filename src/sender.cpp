@@ -136,7 +136,7 @@ void LIMPA(){
 }
 bool connect(string entrada){
     cout << "connecting..." << endl;
-    string name = "../Server/" + entrada + ".txt";
+    string name = "../lib/Server/" + entrada + ".txt";
     fstream outServer;
     string texto;
     outServer.open(name, ios::in);
@@ -157,7 +157,7 @@ bool connect(string entrada){
     
 }
 bool criar(string entrada1, string entrada2){
-    string name = "../Server/" + entrada1 + ".txt";
+    string name = "../lib/Server/" + entrada1 + ".txt";
 
     fstream myServer;
     myServer.open(name, ios::out);

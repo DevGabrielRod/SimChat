@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/sender.exel.dir/sender.cpp.o -o sender.exel 

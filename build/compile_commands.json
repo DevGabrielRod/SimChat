@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/gabriel/Desktop/WorkSpace/SimChats/SimChat/build",
+  "command": "/usr/bin/c++ -I/home/gabriel/Desktop/WorkSpace/SimChats/SimChat/bin -I/home/gabriel/Desktop/WorkSpace/SimChats/SimChat/lib -g -std=gnu++2a -o CMakeFiles/sender.exel.dir/sender.cpp.o -c /home/gabriel/Desktop/WorkSpace/SimChats/SimChat/src/sender.cpp",
+  "file": "/home/gabriel/Desktop/WorkSpace/SimChats/SimChat/src/sender.cpp"
+},
+{
+  "directory": "/home/gabriel/Desktop/WorkSpace/SimChats/SimChat/build",
+  "command": "/usr/bin/c++ -I/home/gabriel/Desktop/WorkSpace/SimChats/SimChat/bin -I/home/gabriel/Desktop/WorkSpace/SimChats/SimChat/lib -g -std=gnu++2a -o CMakeFiles/screen.exel.dir/screen.cpp.o -c /home/gabriel/Desktop/WorkSpace/SimChats/SimChat/src/screen.cpp",
+  "file": "/home/gabriel/Desktop/WorkSpace/SimChats/SimChat/src/screen.cpp"
+},
+{
+  "directory": "/home/gabriel/Desktop/WorkSpace/SimChats/SimChat/build",
+  "command": "/usr/bin/c++ -I/home/gabriel/Desktop/WorkSpace/SimChats/SimChat/bin -I/home/gabriel/Desktop/WorkSpace/SimChats/SimChat/lib -g -std=gnu++2a -o CMakeFiles/testFunc.exel.dir/testfun.cpp.o -c /home/gabriel/Desktop/WorkSpace/SimChats/SimChat/src/testfun.cpp",
+  "file": "/home/gabriel/Desktop/WorkSpace/SimChats/SimChat/src/testfun.cpp"
+}
+]

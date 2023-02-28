@@ -1,0 +1,5 @@
+/home/gabriel/Desktop/WorkSpace/SimChats/SimChat/build/CMakeFiles/sender.exel.dir
+/home/gabriel/Desktop/WorkSpace/SimChats/SimChat/build/CMakeFiles/screen.exel.dir
+/home/gabriel/Desktop/WorkSpace/SimChats/SimChat/build/CMakeFiles/testFunc.exel.dir
+/home/gabriel/Desktop/WorkSpace/SimChats/SimChat/build/CMakeFiles/edit_cache.dir
+/home/gabriel/Desktop/WorkSpace/SimChats/SimChat/build/CMakeFiles/rebuild_cache.dir
