@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
   "CMakeFiles/sender.exel.dir/sender.cpp.o"
-  "CMakeFiles/sender.exel.dir/sender.cpp.o.d"
   "sender.exel"
   "sender.exel.pdb"
 )

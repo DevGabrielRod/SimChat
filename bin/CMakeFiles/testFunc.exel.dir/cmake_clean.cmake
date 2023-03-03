@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
   "CMakeFiles/testFunc.exel.dir/testfun.cpp.o"
-  "CMakeFiles/testFunc.exel.dir/testfun.cpp.o.d"
   "testFunc.exel"
   "testFunc.exel.pdb"
 )

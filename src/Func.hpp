@@ -14,8 +14,7 @@ double generateID(void)
     cout << "Insira o ID: " << endl;
     cin >> id;
     cout << "ID: " << id << endl;
-    if (id > cont_min | id < cont_max )
-    {
+    
         code = id * 3;
         unicode = code * 10;
         code = unicode * 5;
@@ -26,7 +25,7 @@ double generateID(void)
         cout << "UNICODE Gerado!!!" << endl;
         cout << "UNICODE: " << unicode << endl;
         fout << unicode;
-    }
+    
 
     return 0.0;
 

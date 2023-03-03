@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gabriel/Área de trabalho/WorkSpace/SimChat/src/Func.hpp
+iostream
+-
+stdio.h
+-
+fstream
+-
+
+/home/gabriel/Área de trabalho/WorkSpace/SimChat/src/Version.h
+
+/home/gabriel/Área de trabalho/WorkSpace/SimChat/src/testfun.cpp
+iostream
+-
+stdio.h
+-
+fstream
+-
+Version.h
+/home/gabriel/Área de trabalho/WorkSpace/SimChat/src/Version.h
+iomanip
+-
+Func.hpp
+/home/gabriel/Área de trabalho/WorkSpace/SimChat/src/Func.hpp
+

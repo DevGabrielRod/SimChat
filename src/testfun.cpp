@@ -8,18 +8,13 @@
 using namespace std;
 
 void version();
+void clear();
 double generateID();
 double generaterUNICODE();
 
 int main()
 {
-    version();
-    cout.width(10);
-    cout.fill('*');
-    cout <<"*****-----*****Gerador de ID*****-----*****" << endl;
-    generateID();
-    cout << "*****-----*****Gerador de Unicode*****-----*****" << endl;
-    generateUNICODE();
+    
 }
 
 //Default Version
